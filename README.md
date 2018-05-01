@@ -6,8 +6,8 @@ EmergencyBot is an app that offers a faster way to save your life, by allowing u
 
 #### Features:
 - personalized messaging
-- cancellable delay after pressing button to prevent false alarm
-- user accounts, allowing cross device access
+- cancellable delay after pressing a button to prevent false alarm
+- user accounts, allowing cross-device access
 - crowd messaging for normal use
 
 #### Improvements:
